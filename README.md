@@ -62,7 +62,7 @@ Lideré la integración de las APIs de League of Legends (Data Dragon), implemen
 
 ---
 
-## 🎓 Contexto académico
+## Contexto académico
 
 - **Universidad:** Universidad Tecnológica de Panamá (UTP)
 - **Facultad:** Ingeniería de Sistemas Computacionales (FISC)
