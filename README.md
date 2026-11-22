@@ -12,7 +12,7 @@ El proyecto pone en práctica el **consumo de APIs reales**, el trabajo en equip
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Inicio:** página principal con banner, menú de navegación y las últimas noticias del juego.
 - **Campeones (Champions):** galería de todos los campeones con buscador y filtros por rol/estilo (Asesinos, etc.). Las tarjetas usan un efecto *flip* estilo 3D que, al presionarlas, muestran el lore, habilidades y descripción del campeón.
@@ -22,7 +22,7 @@ El proyecto pone en práctica el **consumo de APIs reales**, el trabajo en equip
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **HTML5** — estructura de las páginas.
 - **CSS3** — identidad visual (colores oscuros inspirados en el juego con detalles dorados), diseño responsive y estilos coherentes en todas las vistas.
